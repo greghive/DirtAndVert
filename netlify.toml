@@ -1,0 +1,3 @@
+[build.environment]
+SWIFT_VERSION = "5.5"
+[build]
