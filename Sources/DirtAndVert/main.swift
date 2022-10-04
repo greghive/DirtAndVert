@@ -15,11 +15,11 @@ struct DirtAndVert: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
-    var name = "DirtAndVert"
-    var description = "A description of DirtAndVert"
+    var name = "DIRT & VERT"
+    var description = "Adventures in trail and ultra running"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
 
 // This will generate your website using the built-in Foundation theme:
-try DirtAndVert().publish(withTheme: .foundation)
+try DirtAndVert().publish(withTheme: .ultra)

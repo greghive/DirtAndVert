@@ -1,1 +1,1 @@
-# Welcome to DirtAndVert!
+# Welcome to Dirt And Vert!
