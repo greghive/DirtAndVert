@@ -2,7 +2,6 @@
 import Foundation
 import Publish
 import Plot
-import AppKit
 
 public extension Theme {
     static var ultra: Self {

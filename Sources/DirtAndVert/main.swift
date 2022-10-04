@@ -3,17 +3,17 @@ import Publish
 import Plot
 
 //TODO: prelaunch tasks
+// why wont netlify deploy?
 // header logo as link
 // create about page
 // create header links
 // create footer with links to insta + strava
-// create images for first post
-// deal with < 3 posts on home page
 // tidy up source code
 // buy domain
 // check article copy
 
 //TODO: medium term
+// screen size tweaks (esp mob)
 // better img hosting solution
 // add support for tags
 
