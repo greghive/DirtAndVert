@@ -2,12 +2,13 @@
 import Foundation
 import Publish
 import Plot
+import AppKit
 
 public extension Theme {
     static var ultra: Self {
         Theme(
             htmlFactory: UltraHTMLFactory(),
-            resourcePaths: ["Resources/ultra/styles.css"]
+            resourcePaths: ["/Resources/ultra/styles.css"]
         )
     }
 }
@@ -62,7 +63,6 @@ private struct UltraHTMLFactory<Site: Website>: HTMLFactory {
                     Wrapper {
                         Article {
                             Div(item.content.body).class("content")
-                            Span("Tagged with: ")
                         }
                     }
                     SiteFooter()
@@ -139,11 +139,11 @@ private struct ItemList<Site: Website>: Component {
     var body: Component {
         let group = ComponentGroup {
             for item in items {
+                let imageUrl = URL(string: item.imagePath!.string)!
+                let imageDecription = item.description
                 Div {
-                    let imageUrl = URL(string: item.imagePath!.string)!
-                    let imageDecription = item.description
                     Image(url: imageUrl, description: imageDecription)
-                    H1(item.title)
+                    H1(Link(item.title, url: item.path.absoluteString))
                     H2(item.date.asText)
                 }
                 .class("grid-item")

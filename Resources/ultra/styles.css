@@ -51,7 +51,6 @@ p {
 }
 
 .grid-item a {
-    text-decoration: none;
     color: #282626
 }
 
@@ -65,42 +64,40 @@ p {
 .grid-item img {
     width: 100%;
     height: auto;
+    border-radius: 8px;
 }
 
-.article-image {
+.content img {
     width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 60px;
     margin-bottom: 60px;
+    border-radius: 8px;
 }
 
-.article-wrapper h3, p {
+.content h3, p {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
 
-.article-wrapper h1 {
+.content h1 {
     font-size: 2.2em;
     text-align: center;
 }
 
-.article-wrapper h2 {
+.content h2 {
     font-size: 1.1em;
     color: Tomato;
     text-align: center;
     margin-bottom: 60px;
 }
 
-.article-wrapper h3 {
+.content h3 {
     font-size: 1.3em;
-}
-
-.article-wrapper img {
-    margin-top: 60px;
-    margin-bottom: 60px;
 }
 
 
