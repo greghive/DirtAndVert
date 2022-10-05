@@ -3,7 +3,7 @@ import Publish
 import Plot
 
 //TODO: prelaunch tasks
-// why wont netlify deploy?
+// screen size tweaks (esp mob)
 // header logo as link
 // create about page
 // create header links
@@ -13,7 +13,6 @@ import Plot
 // check article copy
 
 //TODO: medium term
-// screen size tweaks (esp mob)
 // better img hosting solution
 // add support for tags
 
