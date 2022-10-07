@@ -84,7 +84,7 @@ p {
     margin-right: auto;
 }
 
-@media (min-width: 600px) {
+@media only screen and (min-device-width: 375px) {
     .content h3, p { width: 100% }
 }
 
