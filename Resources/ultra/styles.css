@@ -45,7 +45,11 @@ p {
 
 .grid-item {
   padding: 0px;
-  margin: 20px;
+  margin: 0px 0px 20px 0px;
+}
+
+@media (min-width: 600px) {
+  .grid-item { margin: 20px; }
 }
 
 .grid-item h1 {
