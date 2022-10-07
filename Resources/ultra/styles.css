@@ -22,12 +22,12 @@ p {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding: 40px;
+    padding: 20px;
     text-align: left;
 }
 
-@media only screen and (max-device-width: 400px) {
-    .wrapper { padding: 20px; }
+@media (min-width: 600px) {
+    .wrapper { padding: 40px; }
 }
 
 .grid-container {
@@ -83,13 +83,13 @@ p {
 }
 
 .content h3, p {
-    width: 80%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
 
-@media only screen and (max-device-width: 400px) {
-    .content h3, p { width: 100%; }
+@media (min-width: 600px) {
+    .content h3, p { width: 80%; }
 }
 
 .content h1 {
