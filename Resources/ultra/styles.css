@@ -84,6 +84,10 @@ p {
     margin-right: auto;
 }
 
+@media (min-width: 600px) {
+    .content h3, p { width: 100% }
+}
+
 .content h1 {
     font-size: 2.2em;
     text-align: center;
