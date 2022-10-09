@@ -140,14 +140,17 @@ private struct ItemList<Site: Website>: Component {
     var body: Component {
         let group = ComponentGroup {
             for item in items {
+                let itemUrl = item.path.absoluteString
                 let imageUrl = URL(string: item.imagePath!.string)!
                 let imageDecription = item.description
-                Div {
-                    Image(url: imageUrl, description: imageDecription)
-                    H1(Link(item.title, url: item.path.absoluteString))
-                    H2(item.date.asText)
+                Link(url: itemUrl) {
+                    Div {
+                        Image(url: imageUrl, description: imageDecription)
+                        H1(item.title)
+                        H2(item.date.asText)
+                    }
+                    .class("grid-item")
                 }
-                .class("grid-item")
             }
         }
         
