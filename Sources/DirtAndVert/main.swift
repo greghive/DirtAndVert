@@ -3,8 +3,6 @@ import Publish
 import Plot
 
 //TODO: prelaunch tasks
-// screen size tweaks (esp mob)
-// header logo as link
 // create about page
 // create header links
 // create footer with links to insta + strava
