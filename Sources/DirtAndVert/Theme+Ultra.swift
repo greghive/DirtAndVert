@@ -123,10 +123,11 @@ private struct SiteHeader<Site: Website>: Component {
         Navigation {
             List(Site.SectionID.allCases) { sectionID in
                 let section = context.sections[sectionID]
-
-                return Link(section.title,
-                    url: section.path.absoluteString
-                )
+                var url = section.path.absoluteString
+                if url == "/posts" {
+                    url = "/"
+                }
+                return Link(section.title, url: url)
                 .class(sectionID == selectedSelectionID ? "selected" : "")
             }
         }

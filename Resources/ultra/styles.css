@@ -13,9 +13,38 @@ header img {
     margin-right: auto;
 }
 
+nav {
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+nav ul {
+    display:inline-block;
+    padding: 0px;
+}
+
+nav li {
+    display:inline-block;
+    text-align: center;
+    font-style: bold;
+    margin: 0 7px;
+    padding: 8px;
+}
+
+nav a {
+    display:inline-block;
+    padding:10px;
+}
+
 p {
     line-height: 1.6em;
     color: #383535;
+}
+
+a {
+    color: Tomato;
 }
 
 .wrapper {
@@ -33,6 +62,10 @@ p {
 .grid-container {
   margin: 0 auto;
   display: grid;
+}
+
+.grid-container a {
+    text-decoration: none;
 }
 
 @media (min-width: 600px) {
@@ -53,13 +86,10 @@ p {
 }
 
 .grid-item h1 {
+    color: #282626;
     font-size: 1.3em;
     margin-bottom: 0;
     padding: 6px 6px 0px 6px;
-}
-
-.grid-item a {
-    color: #282626
 }
 
 .grid-item h2 {
