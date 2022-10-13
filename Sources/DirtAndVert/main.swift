@@ -4,7 +4,6 @@ import Plot
 
 //TODO: prelaunch tasks
 // create about template
-// create footer with links to insta + strava
 // tidy up source code
 // buy domain
 // check article copy

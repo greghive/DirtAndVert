@@ -163,13 +163,17 @@ private struct ItemList<Site: Website>: Component {
 private struct SiteFooter: Component {
     var body: Component {
         Footer {
-//            Paragraph {
-//                Text("Generated using ")
-//                Link("Publish", url: "https://github.com/johnsundell/publish")
-//            }
-//            Paragraph {
-//                Link("RSS feed", url: "/feed.rss")
-//            }
+            Paragraph {
+                Text("Follow on ")
+                Link("Instagram", url: "https://www.instagram.com/run.greg.run/")
+                    .attribute(named: "target", value: "_blank")
+                Text(" and ")
+                Link("Strava", url: "https://www.strava.com/athletes/2722084")
+                    .attribute(named: "target", value: "_blank")
+            }
+            Paragraph {
+                Link("RSS feed", url: "/feed.rss")
+            }
         }
     }
 }

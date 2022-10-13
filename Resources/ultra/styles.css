@@ -142,6 +142,10 @@ a {
     font-size: 1.3em;
 }
 
+footer {
+    text-align: center;
+}
+
 
 
 
@@ -285,10 +289,9 @@ a {
 /*    padding: 6px 10px;*/
 /*}*/
 /**/
-/*footer {*/
-/*    color: #8a8a8a;*/
-/*}*/
-/**/
+
+
+
 /*@media (prefers-color-scheme: dark) {*/
 /*    body {*/
 /*        background-color: #222;*/
