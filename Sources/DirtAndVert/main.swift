@@ -3,10 +3,9 @@ import Publish
 import Plot
 
 //TODO: prelaunch tasks
-// copy and image(s) for about
 // tidy up source code
 // buy domain
-// check article copy
+// new article re: end of season + plans for 2023 
 
 //TODO: medium term
 // better img hosting solution
