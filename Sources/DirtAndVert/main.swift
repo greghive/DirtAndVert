@@ -3,7 +3,7 @@ import Publish
 import Plot
 
 //TODO: prelaunch tasks
-// create about template
+// copy and image(s) for about
 // tidy up source code
 // buy domain
 // check article copy

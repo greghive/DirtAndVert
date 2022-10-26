@@ -75,11 +75,18 @@ private struct UltraHTMLFactory<Site: Website>: HTMLFactory {
         HTML(
             .lang(context.site.language),
             .head(for: page, on: context.site),
-            .body {
-                SiteHeader(context: context, selectedSelectionID: nil)
-                Wrapper(page.body)
-                SiteFooter()
-            }
+            .body(
+                .class("item-page"),
+                .components {
+                    SiteHeader(context: context, selectedSelectionID: nil)
+                    Wrapper {
+                        Article {
+                            Div(page.body).class("content")
+                        }
+                    }
+                    SiteFooter()
+                }
+            )
         )
     }
 
