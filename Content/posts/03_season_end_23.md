@@ -4,13 +4,13 @@ tags: Training
 image: /images/season_end_22_1.jpg 
 ---
 
-# Time to plan for 2023
+# Wrapping up 2023
 
 ## 27 October, 2022
 
 ![A view from Fan-Y-Big back to Pen-y-Fan](/images/season_end_22_1.jpg)
 
-As 2022 draws to a close and the racing season is over, it's time to relax a little and enjoy some different activities. This period of active rest gives the body some respite from the constant pounding movements of running, and allows us to mentally recover from the demands of training for and racing in tough events. As ultra runners, it's easy to normalise extreme activities (i.e. it's 'only' 50k), and lose sight of what we are putting our bodies through. Some people call this the 'off season' but let's call it a 'transition phase', from the end of a long period of training and racing  (for me that's 1 x 50k and 2 x 100k) to the beginning of a new season the following year. This gives us some purpose whilst also letting go of the sometimes relentless cycle of training. I'll be doing lots of hiking, climbing, swimming and maybe some cycling and enjoying moving just for the sake of it, with nothing to prove and nothing to achieve. This is also a good time to reflect upon your achievements in the current year, to be proud of where you have improved and look to see what changes you can make to set yourself up for a great season the following year.
+As 2022 draws to a close and the racing season is over, it's time to relax a little and enjoy some different activities. This period of active rest gives the body some respite from the constant pounding movements of running, and allows us to mentally recover from the demands of training for and racing in tough events. As ultra runners, it's easy to normalise extreme activities (i.e. it's 'only' 50k), and lose sight of what we are putting our bodies through. Some people call this the 'off season' but let's call it a 'transition phase', from the end of a long period of training and racing  (for me that's 1 x 50k and 2 x 100k) to the beginning of a new season the following year. This gives us some purpose whilst also letting go of the sometimes relentless cycle of training. I'll be doing lots of hiking, climbing, swimming and maybe some cycling and enjoying moving just for the sake of it, with nothing to prove and nothing to achieve. This is also a good time to reflect upon your achievements in the current year, to be proud of where you have improved and look to see what changes you can make to set yourself up for a great season the next year.
 
 ### Reflecting on 2022
 
@@ -20,7 +20,7 @@ I had planned an attempt at the Bob Graham Round to take place on my 40th birthd
 
 ![The West Wall Traverse](/images/season_end_22_2.jpg)
 
-In May I did the Trail Events Brecon Beacons 50k and after opening a convincing lead of around 5 minutes at roughly 9 miles I stupidly went the wrong way with only a few miles remaining. I lost 20 minutes but managed to hang on to 2nd place. More than anything I was really pleased with where my fitness was heading into Ultra Trail Snowdonia 100k in early July. You can read more about there here. By this stage in the year my legs were far more acustomed to mountain miles than they had been, but UTS in particular was a bit of a shock to the system. After more mountain miles in training in the months following, I felt as though I'd acheived proper mountain legs by mid September at Nice 110k (read here for a full account of that). A huge improvement in technical mountain skills from April through to September, though there is still much work to be done next year, 2022 was a great start.
+In May I did the Trail Events Brecon Beacons 50k and after opening a convincing lead of around 5 minutes at roughly 9 miles I stupidly went the wrong way with only a few miles remaining. I lost 20 minutes but managed to hang on to 2nd place. More than anything I was really pleased with where my fitness was heading into Ultra Trail Snowdonia 100k in early July. You can read more about that [here][1]. By this stage in the year my legs were far more acustomed to mountain miles than they had been, but UTS in particular was a bit of a shock to the system. After more mountain miles in training in the months following, I felt as though I'd acheived proper mountain legs by mid September at Nice 110k. Read all about that one [here][2]. A huge improvement in technical mountain skills from April through to September, though there is still much work to be done next year, 2022 was a great start.
 
 ![A medal and trophy on grass](/images/season_end_22_3.jpg)
 
@@ -61,6 +61,9 @@ Or if I'm not lucky in the lottery, and need to collect more running stones, som
 But for now, I'm going to kick back, enjoy some other sports and continue to refine these plans to make 2023 the most epic year yet!
 
 ![A happy runner in foggy mountains](/images/season_end_22_4.jpg)
+
+[1]: /posts/02_uts_100k/
+[2]: /posts/01_nice_100k/
 
 
 
