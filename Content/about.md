@@ -1,6 +1,6 @@
 # Welcome!  
 
-![A runner ascending the Pyg Track at sunset](/images/uts_pic_1.jpg)
+![A happy runner in foggy mountains](/images/season_end_22_4.jpg)
 
 Hi! My name is Greg Price, and I'm a trail and mountain ultra runner from The Cotswolds UK. I'm 40 years old, a self employed Software Engineer, and Dad to my three beautiful daughters. Welcome to my blog 👋.
 

@@ -4,7 +4,7 @@ tags: Training
 image: /images/season_end_22_1.jpg 
 ---
 
-# Wrapping up 2023
+# Wrapping up 2022
 
 ## 27 October, 2022
 
@@ -36,7 +36,7 @@ The main goal for next year is CCC at UTMB. However, I'm relying on the lottery 
 
 *Dialled in kit.*
 
-I hit some 60+ mile weeks this year and could have made those 70 mile weeks if logistics had allowed. Family life with a 3 year old and twins under 1 is hectic to say the least. If I was writing this 4 or 5 years ago mileage at that level would be doable, but right now missed sessions for one reason or another are just part of life. So we make do where we can. More vert is an interesting challenge. My 10k / 11k of ascent weeks were great, but more would be helpful. I'm going to need to get creative with this. The Brecon Beacons are my closest mountain range, but with a 90 minute drive each way, it's something of a luxury to get out there (see my point above re: family life). 
+I hit some 60+ mile weeks this year and could have made those 70 mile weeks if logistics had allowed. Family life with a 3 year old and twins under 1 is hectic to say the least. If I was writing this 4 or 5 years ago the time required to log 70 mile weeks would have been doable, but right now missed sessions for one reason or another are just part of life. So we make do where we can. More vert is an interesting challenge. My 10k / 11k of ascent weeks were great, but more would be helpful. I'm going to need to get creative with this. The Brecon Beacons are my closest mountain range, but with a 90 minute drive each way, it's something of a luxury to get out there (see my point above re: family life). 
 
 Possibly the easiest goal to achieve here whilst also being seemingly the most difficult is nutrition. I need to make serious changes to my diet in order to support those 70 mile / 15k to 20k ascent weeks. Family and work life demands a lot of energy, let alone all that running, and I know it just won't be possible without seriously advancing my game regarding how I'm fueling such an active lifestyle, and how I'm giving my body everything it needs to recover and go again. I think the help of a nutritionist is likely the best way forward. The final goal is dialling in my kit. Something I've learned over two big mountain ultras this year is how important the right kit is. Mandatory kit lists for big mountain races can be extensive. The right choice for you, correctly packed is hugely important. I'll be looking at this soon, way ahead of races in 2023. 
 
@@ -44,23 +44,21 @@ Possibly the easiest goal to achieve here whilst also being seemingly the most d
 
 This all hangs in the balance of the CCC lottery, so the current plan is rough with two permutations.
 
-*May: UTS 50k (booked!)*
+*May: UTS 50k (booked!)* 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-*July: Brecon Beacons 100k*
+*July: Brecon Beacons 100k* 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-*September: CCC!*
+*September: CCC!* 🇫🇷 🇮🇹 🇨🇭
 
 Or if I'm not lucky in the lottery, and need to collect more running stones, something like:
 
-*May: UTS 50k (booked!)*
+*May: UTS 50k (booked!)* 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-*June: Mozart 100*
+*June: Mozart 100* 🇦🇹
 
-*September: Nice 111k or Wildstrubel 110k*
+*September: Nice 111k or Wildstrubel 110k* 🇫🇷 / 🇨🇭
 
 But for now, I'm going to kick back, enjoy some other sports and continue to refine these plans to make 2023 the most epic year yet!
-
-![A happy runner in foggy mountains](/images/season_end_22_4.jpg)
 
 [1]: /posts/02_uts_100k/
 [2]: /posts/01_nice_100k/
