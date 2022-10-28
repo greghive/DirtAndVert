@@ -2,12 +2,8 @@ import Foundation
 import Publish
 import Plot
 
-//TODO: prelaunch tasks
+//TODO:
 // tidy up source code
-// buy domain
-// new article re: end of season + plans for 2023 
-
-//TODO: medium term
 // better img hosting solution
 // add support for tags
 
@@ -21,7 +17,7 @@ struct DirtAndVert: Website {
     struct ItemMetadata: WebsiteItemMetadata {
     }
 
-    var url = URL(string: "https://your-website-url.com")!
+    var url = URL(string: "https://dirtandvert.run")!
     var name = "DIRT & VERT"
     var description = "Adventures in trail and ultra running"
     var language: Language { .english }
