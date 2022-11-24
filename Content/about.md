@@ -2,7 +2,7 @@
 
 ![A happy runner in foggy mountains](/images/season_end_22_4.jpg)
 
-Hi! My name is Greg Price, and I'm a trail and mountain ultra runner from The Cotswolds UK. I'm 40 years old, a self employed Software Engineer, and Dad to my three beautiful daughters. Welcome to my blog 👋.
+Hi! My name is Greg Price, and I'm a trail and mountain ultra runner from The Cotswolds UK. I'm 40 years old, a self employed Software Engineer, and Dad to my three beautiful daughters. Welcome to my blog.
 
 I started running 10 years ago when I setup my own company and knew I would be spending a lot of time alone whilst working from home. I decided that running would get me out and about on a daily basis and away from my desk. I soon entered my first event, a 14 mile trail race, which was swiftly followed by my first marathon in London. I began to live a new, healthier life and was enjoying setting goals, training consistently and seeing myself progress. After London, I ran the Amsterdam marathon that same year and began to wonder what else I could achieve. 
 
